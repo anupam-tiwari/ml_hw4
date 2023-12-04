@@ -1,4 +1,4 @@
-# Lab 4 - Adversarial Machine Learning
+# Lab 4 - Backoor attacks on Machine Learning
 
 **Name:** Anupam Tiwari </br>
 **NETID:** ast9885
